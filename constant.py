@@ -1,0 +1,2 @@
+NAME = 'Ahmed'
+CITY = 'Lahore'
